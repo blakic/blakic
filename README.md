@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @blakic
-- 👀 I’m interested in aws Cloud 
-- 🌱 I’m currently learning SAA CO3 
+- 👀 I’m interested in 
+- 🌱 I’m currently learning
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
